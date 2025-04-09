@@ -31,4 +31,4 @@ def logarithm(a, b):
         raise ValueError
     if b <= 0:
         raise ValueError
-    return math.log(a) / math.log(b)
+    return math.log(a,b)
