@@ -1,4 +1,5 @@
 import math
+#lab 10
 
 def add(a, b): 
     return a + b
