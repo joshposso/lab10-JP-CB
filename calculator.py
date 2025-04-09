@@ -8,7 +8,9 @@ def subtract(a, b):
 def multiply(a, b):
     return a * b
 def divide(a, b):
-    return a / b
+    if a == 0:
+        return ValueError
+    return b/a
 def logarithm(a, b):
     if a <= 0:
         raise ValueError
