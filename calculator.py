@@ -14,6 +14,8 @@ def div(a, b):
 def exp(a, b):
   return a ** b
 
+def subtract(a,b):
+    return a-b
 
 def square_root(a):
     if a < 0:
