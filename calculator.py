@@ -1,4 +1,4 @@
-# C:\Users\alpo7\PycharmProjects\lab10-JP-CB
+# https://github.com/joshposso/lab10-JP-CB
 # Partner 1: Josh Posso
 # Partner 2: Callahan Bonifant
 import math
